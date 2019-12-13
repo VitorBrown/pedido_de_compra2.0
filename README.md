@@ -1,5 +1,15 @@
-Laracast Course - https://laracasts.com/series/php-for-beginners
+Manual de uso: 
 
-Code from the course, with comments and alternatives [ as well as homeworks 8) ]
+O bando de dados usado foi o mysql, nome do banco é teste.
 
-Really awesome series even if you aren't new to PHP.
+Caso queira alterar banco, usuario e senha o nome do arquivo é config.php
+
+Os usuarios: 
+
+- São estes: sthella@teste.com e paula@teste.com
+- Senha para ambos é: 123
+
+Bibliografia:
+
+Como gosto muito do laravel, estudo PHP no laracast  https://laracasts.com/
+
