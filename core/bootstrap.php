@@ -2,9 +2,9 @@
 session_start();
 use App\Core\App;
 
-$_SERVER['HTTP_HOST']= 'http://localhost/floripa_project/';
+$_SERVER['HTTP_HOST']= 'http://localhost/pedido_de_compra2.0/';
 
-$_SERVER['SERVER_NAME']= 'http://localhost/floripa_project/';
+$_SERVER['SERVER_NAME']= 'http://localhost/pedido_de_compra2.0/';
 
 $_SERVER['REQUEST_URI'] = explode('/', $_SERVER['REQUEST_URI']);
 
